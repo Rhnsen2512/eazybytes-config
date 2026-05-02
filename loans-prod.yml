@@ -1,0 +1,11 @@
+
+build:
+  version: 9.0
+loans:
+  message: "Welcome to EazyBank Loans related PROD APIs"
+  contactDetails:
+    name: "Nana Patekar- Product Owner"
+    email: "nana@eazybank.com"
+  onCallSupport:
+    -(671)991-9292
+    -(222)198-9291

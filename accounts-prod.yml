@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank Accounts related PROD APIs"
+  contactDetails:
+    name: "Chaina Sen- Product Owner"
+    email: "chandu@eazybank.com"
+  onCallSupport:
+    -(453)2392-4829
+    -(236)203-0384

@@ -1,0 +1,18 @@
+
+
+
+build:
+  version: "4.0"
+
+
+loans:
+  message: "Welcome to EazyBank Loans related Local APIs"
+  contactDetails:
+    name: "Amol Palekar- Developer"
+    email: "amol@eazybank.com"
+  onCallSupport:
+    -(452)456-2176
+    -(546)764-8934
+
+
+

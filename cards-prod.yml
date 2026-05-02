@@ -1,0 +1,11 @@
+build:
+  version: 12.0
+
+cards:
+  message: "Welcome to EazyBank Cards related PROD APIs"
+  contactDetails:
+    name: "Ben Hanscom- Product Owner"
+    email: "ben@eazybank.com"
+  onCallSupport:
+    -(891)123-1234
+    -(000)090-9099

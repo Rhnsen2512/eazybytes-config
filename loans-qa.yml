@@ -1,0 +1,10 @@
+build:
+  version: 8.0
+loans:
+  message: "Welcome to EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "Shreya Ghoshal- Application Tester"
+    email: "shreya@eazybank.com"
+  onCallSupport:
+    -(453)111-2344
+    -(145)231-4672

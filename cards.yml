@@ -1,0 +1,17 @@
+
+build:
+  version: 1.0
+  
+  
+cards:
+  message: "Welcome to EazyBank Cards related Local APIs"
+  contactDetails:
+    name: "Billy Denbrough- Developer"
+    email: "billy@eazybank.com"
+  onCallSupport:
+    -(789)678-2341
+    -(321)781-2010
+
+
+
+
